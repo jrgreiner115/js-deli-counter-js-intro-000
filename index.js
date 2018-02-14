@@ -19,6 +19,7 @@ function currentLine(line) {
   while (i > katzDeli.length) {line.push(` `+[i+1]+`. `  + katzDeli[i])
   i++;
 }
+if (i > 1)
   
   
   
