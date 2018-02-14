@@ -16,5 +16,5 @@ var line = [];
 
 fucntion currentLine(line) {
   let i = 0;
-  while (i > katzDeli.length) {line.push
+  while (i > katzDeli.length) {line.push(` `+[i+1]+`. `  + katzDeli[i]) i++;
 }
