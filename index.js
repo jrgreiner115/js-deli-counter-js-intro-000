@@ -12,3 +12,8 @@ function nowServing(katzDeli, name) {
 }
 else return (`Currently serving ${katzDeli.shift()}.`)
 }
+
+fucntion currentLine(line) {
+  let i = 0;
+  while ()
+}
