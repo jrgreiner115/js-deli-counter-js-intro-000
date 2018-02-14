@@ -10,11 +10,11 @@ function nowServing(katzDeli, name) {
   if (katzDeli.length === 0) {
   return "There is nobody waiting to be served!";
 }
-else return (`Currently serving ${katzDeli.shift()}
+else return (`Currently serving ${katzDeli.shift()}.`)
 }
 var line = [];
 
 fucntion currentLine(line) {
   let i = 0;
-  while (i > katzDeli.length) {katzDeli.push
+  while (i > katzDeli.length); {katzDeli.push
 }
