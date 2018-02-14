@@ -12,9 +12,9 @@ function nowServing(katzDeli, name) {
 }
 else return (`Currently serving ${katzDeli.shift()}.`)
 }
+var line = [];
 
 fucntion currentLine(line) {
-  line = [];
   let i = 0;
-  while (i > katzDeli.length) {n
+  while (i > katzDeli.length) {katzDeli.push
 }
