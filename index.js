@@ -14,8 +14,13 @@ else return (`Currently serving ${katzDeli.shift()}.`)
 }
 var line = [];
 
-fucntion currentLine(line) {
+function currentLine(line) {
   let i = 0;
   while (i > katzDeli.length) {line.push(` `+[i+1]+`. `  + katzDeli[i])
   i++;
+}
+  
+  
+  
+  
 }
