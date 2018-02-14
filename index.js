@@ -16,5 +16,5 @@ var line = [];
 
 fucntion currentLine(line) {
   let i = 0;
-  while (i > line.length) {katzDeli.push
+  while (i > katzDeli.length) {line.push
 }
