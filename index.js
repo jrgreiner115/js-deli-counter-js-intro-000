@@ -14,6 +14,7 @@ else return (`Currently serving ${katzDeli.shift()}.`)
 }
 
 fucntion currentLine(line) {
-  let i = 0;
+  line = [];
+  
   while ()
 }
